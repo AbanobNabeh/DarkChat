@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "588197497208",
+    "project_id": "darkchat-31673",
+    "storage_bucket": "darkchat-31673.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588197497208:android:d2f5e1878e0aaa429e208d",
+        "android_client_info": {
+          "package_name": "com.examplee.darkchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588197497208-hv94rc5i117k4vngf56pp7md5r98e4bl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.examplee.darkchat",
+            "certificate_hash": "a3f35eea4f9aab49109254f22409ad854726e01a"
+          }
+        },
+        {
+          "client_id": "588197497208-u1ccgftj0ipmpailk40e7ccuemfekcoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoOhIgpkdvpTTwoV4xH2Ybx6-PeUXCHtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588197497208-u1ccgftj0ipmpailk40e7ccuemfekcoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
